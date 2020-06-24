@@ -1,0 +1,86 @@
+{
+    "name": "Logitech RumblePad 2",
+    "guid": "666",
+    "axis": [
+        {
+            "name": "left_x",
+            "id": 0
+        },
+        {
+            "name": "left_y",
+            "id": 1
+        },
+        {
+            "name": "right_x",
+            "id": 2
+        },
+        {
+            "name": "right_y",
+            "id": 3
+        }
+    ],
+    "buttons": [
+        {
+            "name": "square",
+            "id": 0
+        },
+        {
+            "name": "x",
+            "id": 1
+        },
+        {
+            "name": "circle",
+            "id": 2
+        },
+        {
+            "name": "triangle",
+            "id": 3
+        },
+        {
+            "name": "r1",
+            "id": 5
+        },
+        {
+            "name": "r2",
+            "id": 7
+        },
+        {
+            "name": "l1",
+            "id": 4
+        },
+        {
+            "name": "l2",
+            "id": 6
+        },
+        {
+            "name": "start",
+            "id": 8
+        },
+        {
+            "name": "select",
+            "id": 9
+        }
+    ],
+    "hats": [
+        {
+            "hat": 0,
+            "name": "up",
+            "id": 1
+        },
+        {
+            "hat": 0,
+            "name": "down",
+            "id": 4
+        },
+        {
+            "hat": 0,
+            "name": "right",
+            "id": 2
+        },
+        {
+            "hat": 0,
+            "name": "left",
+            "id": 8
+        }
+    ]
+}
